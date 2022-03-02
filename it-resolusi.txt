@@ -1,4 +1,9 @@
 IT RESOLUSI
+1
 -Menguasai oop
 -menguasai JS
 -menguasai React
+-menguasai github
+
+2
+-implementasi pada pekerjaan
