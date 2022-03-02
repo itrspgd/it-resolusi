@@ -1,0 +1,4 @@
+IT RESOLUSI
+-Menguasai oop
+-menguasai JS
+-menguasai React
